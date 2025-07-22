@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #f0ebeb;
 }
 
 header {
@@ -16,7 +16,7 @@ header {
 }
 
 a {
-  color: white;
+  color: rgb(41, 41, 215);
   text-decoration: none;
   margin: 0 10px;
 }
